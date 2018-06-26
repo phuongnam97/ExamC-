@@ -1,0 +1,11 @@
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\bin\Debug\netcoreapp2.0\ThucHanh.deps.json
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\bin\Debug\netcoreapp2.0\ThucHanh.runtimeconfig.json
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\bin\Debug\netcoreapp2.0\ThucHanh.runtimeconfig.dev.json
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\bin\Debug\netcoreapp2.0\ThucHanh.dll
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\bin\Debug\netcoreapp2.0\ThucHanh.pdb
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.0\ThucHanh.csprojAssemblyReference.cache
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.0\ThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.0\ThucHanh.AssemblyInfoInputs.cache
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.0\ThucHanh.AssemblyInfo.cs
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.0\ThucHanh.dll
+C:\Users\vohop\RiderProjects\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.0\ThucHanh.pdb
